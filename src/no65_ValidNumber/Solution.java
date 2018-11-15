@@ -1,4 +1,4 @@
-package leetcode_solution;
+package no65_ValidNumber;
 /*
  * Validate if a given string can be interpreted as a decimal number.
 
@@ -31,7 +31,7 @@ Update (2015-02-10):
 The signature of the C++ function had been updated. If you still see your function signature accepts a const char * argument, please click the reload button to reset your code definition.
 
  */
-public class ValidNumber {
+public class Solution {
 
 	
     enum STATE{
